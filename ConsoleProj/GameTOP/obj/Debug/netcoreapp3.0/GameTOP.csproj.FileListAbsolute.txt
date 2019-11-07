@@ -1,0 +1,16 @@
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.exe
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.deps.json
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.json
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.dev.json
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.dll
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.pdb
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csprojAssemblyReference.cache
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfoInputs.cache
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfo.cs
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.dll
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.pdb
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.dll
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Lib.pdb
+C:\repos\dotnet\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\repos\dotnet\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csproj.CopyComplete
